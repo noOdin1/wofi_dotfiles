@@ -1,0 +1,8 @@
+mode=dmenu
+allow_images=true
+image_size=16
+width=250px
+location=center 
+lines=11
+gtk-dark
+prompt="Which application"
